@@ -31,4 +31,4 @@
 
 # tool
 
-- [tsfresh](https://github.com/blue-yonder/tsfresh)
+- [python tool awesome list](https://github.com/MaxBenChrist/awesome_time_series_in_python)
