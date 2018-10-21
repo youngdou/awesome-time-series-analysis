@@ -31,4 +31,4 @@
 
 # tool
 
-- [python tool awesome list](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+- [python tools awesome list](https://github.com/MaxBenChrist/awesome_time_series_in_python)
