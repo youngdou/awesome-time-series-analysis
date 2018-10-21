@@ -1,7 +1,7 @@
 # Awesome Time Series Analysis and Data Mining
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of time series analysis and time series data mining
+A collection list of learning resource, tools and dataset for time series analysis, time series data mining.
 
 List of content
 1. [Tutorial](#tutorial)
@@ -15,7 +15,6 @@ List of content
 - https://github.com/PacktPublishing/Practical-Time-Series-Analysis
 - https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython
 
-
 # Course
 
 ## Online Course
@@ -25,19 +24,17 @@ List of content
 - [Multivariate Time Series Analysis](http://faculty.chicagobooth.edu/ruey.tsay/teaching/mts/sp2017/)
 
 
-
 # Book
-
 - [Cochrane J H. Time series for macroeconomics and finance[J]. Manuscript, University of Chicago, 2005.](http://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
 
 
 # Paper
-
 - [Time-series data mining](https://dl.acm.org/citation.cfm?id=2379788)
 - [Clustering of time series data—a survey](https://www.sciencedirect.com/science/article/pii/S0031320305001305)
 
 
-
 # tool
-
 - [python tools awesome list](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+
+# Dataset
+- [NASDAQ 100 stock data](http://cseweb.ucsd.edu/~yaq007/NASDAQ100_stock_data.html)
