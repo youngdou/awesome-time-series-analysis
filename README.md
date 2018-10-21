@@ -1,5 +1,14 @@
-# awesome-time-series-analysis
+# Awesome Time Series Analysis and Data Mining
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of time series analysis and time series data mining
+
+List of content
+1. [Tutorial](#tutorial)
+2. [Course](#course)
+3. [Book](#book)
+4. [Paper](#paper)
+5. [tool](#tool)
 
 # Tutorial
 - https://github.com/lyndond/Analyzing_Neural_Time_Series
