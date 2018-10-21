@@ -1,7 +1,7 @@
 # Awesome Time Series Analysis and Data Mining
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A collection list of learning resource, tools and dataset for time series analysis, time series data mining.
+A collection list of learning resource, tools and dataset for time series analysis or time series data mining.
 
 ## content
 1. [Tutorial](#tutorial)
