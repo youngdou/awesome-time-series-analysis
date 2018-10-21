@@ -23,6 +23,8 @@
 
 
 # Paper
+
+- [Time-series data mining](https://dl.acm.org/citation.cfm?id=2379788)
 - [Clustering of time series data—a survey](https://www.sciencedirect.com/science/article/pii/S0031320305001305)
 
 
