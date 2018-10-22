@@ -45,3 +45,7 @@ A collection list of learning resource, tools and dataset for time series analys
 
 ## Dataset
 - [NASDAQ 100 stock data](http://cseweb.ucsd.edu/~yaq007/NASDAQ100_stock_data.html)
+
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
