@@ -31,6 +31,8 @@ A collection list of learning resource, tools and dataset for time series analys
 ### Course Resource
 - [Multivariate Time Series Analysis](http://faculty.chicagobooth.edu/ruey.tsay/teaching/mts/sp2017/)
 - [Time Series | Oregon State University](http://stat565.cwick.co.nz/)
+- [Statistical forecasting:notes on regression and time series analysis | duke University](http://people.duke.edu/~rnau/411home.htm)
+
 ## Book
 - [Cochrane J H. Time series for macroeconomics and finance[J]. Manuscript, University of Chicago, 2005.](http://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
 - [Forecasting: Principles and Practice. Rob J Hyndman and George Athanasopoulos](https://otexts.org/fpp2/)
