@@ -29,7 +29,7 @@ A collection list of learning resource, tools and dataset for time series analys
 - [Policy Analysis Using Interrupted Time Series | edX](https://www.edx.org/course/policy-analysis-using-interrupted-time-ubcx-itsx-2)
 
 ### Course Resource
-- [Multivariate Time Series Analysis](http://faculty.chicagobooth.edu/ruey.tsay/teaching/mts/sp2017/)
+- [Multivariate Time Series Analysis |Chicago Booth, Ruey S. Tsay](http://faculty.chicagobooth.edu/ruey.tsay/teaching/mts/sp2017/)
 - [Time Series | Oregon State University](http://stat565.cwick.co.nz/)
 - [Statistical forecasting:notes on regression and time series analysis | duke University](http://people.duke.edu/~rnau/411home.htm)
 
