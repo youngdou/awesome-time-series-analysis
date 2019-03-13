@@ -14,6 +14,7 @@ A collection list of learning resource, tools and dataset for time series analys
 
 
 ## Tutorial
+- https://machinelearningmastery.com/start-here/#timeseries
 - https://github.com/lyndond/Analyzing_Neural_Time_Series
 - https://github.com/PacktPublishing/Practical-Time-Series-Analysis
 - https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython
