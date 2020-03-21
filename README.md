@@ -11,6 +11,7 @@ A collection list of learning resource, tools and dataset for time series analys
 4. [Paper](#paper)
 5. [Tool](#tool)
 6. [Dataset](#dataset)
+7. [Models](#Models)
 
 
 ## Tutorial
@@ -49,6 +50,11 @@ A collection list of learning resource, tools and dataset for time series analys
 
 ## Dataset
 - [NASDAQ 100 stock data](http://cseweb.ucsd.edu/~yaq007/NASDAQ100_stock_data.html)
+- [UCR time series dataset](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
+
+## Models
+- [ROCKA](https://github.com/polarbear1992/Rocka)
+- [Kshape](https://github.com/johnpaparrizos/kshape)
 
 
 ## License
