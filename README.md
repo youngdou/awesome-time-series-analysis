@@ -38,10 +38,11 @@ A collection list of learning resource, tools and dataset for time series analys
 ## Book
 - [Cochrane J H. Time series for macroeconomics and finance[J]. Manuscript, University of Chicago, 2005.](http://econ.lse.ac.uk/staff/wdenhaan/teach/cochrane.pdf)
 - [Forecasting: Principles and Practice. Rob J Hyndman and George Athanasopoulos](https://otexts.org/fpp2/)
+- [Time Series Forecasting in PyThon](https://otexts.org/fpp2/)
 
 ## Paper
 - [Time-series data mining](https://dl.acm.org/citation.cfm?id=2379788)
-- [Clustering of time series data—a survey](https://www.sciencedirect.https://otexts.org/fpp2//science/article/pii/S0031320305001305)
+- [Clustering of time series data—a survey](https://www.manning.com/books/time-series-forecasting-in-python-book)
 
 
 ## Tool
